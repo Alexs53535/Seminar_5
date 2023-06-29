@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\bin\Debug\net6.0\Exersises_34.exe
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\bin\Debug\net6.0\Exersises_34.deps.json
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\bin\Debug\net6.0\Exersises_34.runtimeconfig.json
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\bin\Debug\net6.0\Exersises_34.dll
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\bin\Debug\net6.0\Exersises_34.pdb
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\obj\Debug\net6.0\Exersises_34.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\obj\Debug\net6.0\Exersises_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\obj\Debug\net6.0\Exersises_34.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\obj\Debug\net6.0\Exersises_34.AssemblyInfo.cs
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\obj\Debug\net6.0\Exersises_34.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\obj\Debug\net6.0\Exersises_34.dll
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\obj\Debug\net6.0\refint\Exersises_34.dll
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\obj\Debug\net6.0\Exersises_34.pdb
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\obj\Debug\net6.0\Exersises_34.genruntimeconfig.cache
+C:\Users\Aleksandr\Desktop\Exers\Exersises_34\obj\Debug\net6.0\ref\Exersises_34.dll
